@@ -1,0 +1,20 @@
+.accordion{
+
+}
+.accordion-content{
+    color: rgb(4, 133, 4);
+    font-weight: 700;
+    display: block;
+    border-bottom: 1px solid #e0e0e0;
+}
+.accordion-title{
+    border-bottom: 1px solid #e0e0e0;
+    cursor: pointer;
+    display: flex;
+    padding: 10px 20px;
+
+}
+
+.none{
+    display: none;
+}
